@@ -1,6 +1,6 @@
 import math as m
 #create triangle
-triangle_text = open("triangle_test.txt", "r")
+triangle_text = open("triangle.txt", "r")
 rows = []
 for line in triangle_text:
     line = line.rstrip()
